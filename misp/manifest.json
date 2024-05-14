@@ -1,0 +1,254 @@
+{
+  "7b943a4b-4e8d-4c2d-99ed-64ece4ee45af": {
+    "Orgc": {
+      "name": "Infoblox",
+      "uuid": "D1C6A726-F132-4DDC-8180-CE3A5B778E65"
+    },
+    "Tag": [],
+    "info": "c2_beacon_20230414_iocs",
+    "date": "2023-04-14",
+    "analysis": 2,
+    "threat_level_id": 4,
+    "timestamp": 1715713498
+  },
+  "10d208fb-2d5b-480c-9e16-78447c516177": {
+    "Orgc": {
+      "name": "Infoblox",
+      "uuid": "D1C6A726-F132-4DDC-8180-CE3A5B778E65"
+    },
+    "Tag": [],
+    "info": "prolific_puma_20231031",
+    "date": "2023-10-31",
+    "analysis": 2,
+    "threat_level_id": 4,
+    "timestamp": 1715713499
+  },
+  "2f4423bf-2423-4227-b635-ac151a933c98": {
+    "Orgc": {
+      "name": "Infoblox",
+      "uuid": "D1C6A726-F132-4DDC-8180-CE3A5B778E65"
+    },
+    "Tag": [],
+    "info": "decoy_dog_cta_20230420_iocs",
+    "date": "2023-04-20",
+    "analysis": 2,
+    "threat_level_id": 4,
+    "timestamp": 1715713501
+  },
+  "9561511f-8cd4-4980-8b0f-a2074d9e0b2f": {
+    "Orgc": {
+      "name": "Infoblox",
+      "uuid": "D1C6A726-F132-4DDC-8180-CE3A5B778E65"
+    },
+    "Tag": [],
+    "info": "suspicious_dga_cta_20230823",
+    "date": "2023-08-23",
+    "analysis": 2,
+    "threat_level_id": 4,
+    "timestamp": 1715713502
+  },
+  "21411926-fc5b-416c-8120-586759423922": {
+    "Orgc": {
+      "name": "Infoblox",
+      "uuid": "D1C6A726-F132-4DDC-8180-CE3A5B778E65"
+    },
+    "Tag": [],
+    "info": "emotet_cta_20221006_iocs",
+    "date": "2022-10-06",
+    "analysis": 2,
+    "threat_level_id": 4,
+    "timestamp": 1715713503
+  },
+  "21800b4a-a650-4517-9089-734f5ba4afec": {
+    "Orgc": {
+      "name": "Infoblox",
+      "uuid": "D1C6A726-F132-4DDC-8180-CE3A5B778E65"
+    },
+    "Tag": [],
+    "info": "ameli_cta_20221118_iocs",
+    "date": "2022-11-18",
+    "analysis": 2,
+    "threat_level_id": 4,
+    "timestamp": 1715713504
+  },
+  "7fde5d74-9194-417e-b260-8b55e84906d0": {
+    "Orgc": {
+      "name": "Infoblox",
+      "uuid": "D1C6A726-F132-4DDC-8180-CE3A5B778E65"
+    },
+    "Tag": [],
+    "info": "smishing_cta_20220408_iocs",
+    "date": "2022-04-08",
+    "analysis": 2,
+    "threat_level_id": 4,
+    "timestamp": 1715713506
+  },
+  "646f48fb-16e9-41e2-8308-93067d3bad98": {
+    "Orgc": {
+      "name": "Infoblox",
+      "uuid": "D1C6A726-F132-4DDC-8180-CE3A5B778E65"
+    },
+    "Tag": [],
+    "info": "ukraine_russia_malicous_suspicious_iocs",
+    "date": "2024-05-14",
+    "analysis": 2,
+    "threat_level_id": 4,
+    "timestamp": 1715713507
+  },
+  "006f3c21-a013-483e-88e4-5c07aaea2559": {
+    "Orgc": {
+      "name": "Infoblox",
+      "uuid": "D1C6A726-F132-4DDC-8180-CE3A5B778E65"
+    },
+    "Tag": [],
+    "info": "vextrio_cta_20220606_iocs",
+    "date": "2022-06-06",
+    "analysis": 2,
+    "threat_level_id": 4,
+    "timestamp": 1715713512
+  },
+  "521b411b-1a8b-4509-87ea-5175a3315ca0": {
+    "Orgc": {
+      "name": "Infoblox",
+      "uuid": "D1C6A726-F132-4DDC-8180-CE3A5B778E65"
+    },
+    "Tag": [],
+    "info": "ukraine_russia_legitimate_iocs",
+    "date": "2024-05-14",
+    "analysis": 2,
+    "threat_level_id": 4,
+    "timestamp": 1715713514
+  },
+  "ee2866e9-bd09-4230-94e1-9c3f8967c0ef": {
+    "Orgc": {
+      "name": "Infoblox",
+      "uuid": "D1C6A726-F132-4DDC-8180-CE3A5B778E65"
+    },
+    "Tag": [],
+    "info": "vextrio_cta_20240123_iocs",
+    "date": "2024-01-23",
+    "analysis": 2,
+    "threat_level_id": 4,
+    "timestamp": 1715713515
+  },
+  "9426c58f-e299-4777-9c52-e7dafed77968": {
+    "Orgc": {
+      "name": "Infoblox",
+      "uuid": "D1C6A726-F132-4DDC-8180-CE3A5B778E65"
+    },
+    "Tag": [],
+    "info": "open_tangle_cta_20231012_iocs",
+    "date": "2023-10-12",
+    "analysis": 2,
+    "threat_level_id": 4,
+    "timestamp": 1715713516
+  },
+  "08ae6acf-dd5c-4f6b-99b4-3432c0610ea0": {
+    "Orgc": {
+      "name": "Infoblox",
+      "uuid": "D1C6A726-F132-4DDC-8180-CE3A5B778E65"
+    },
+    "Tag": [],
+    "info": "cryptdesignbot_cta_20230518_iocs",
+    "date": "2023-05-18",
+    "analysis": 2,
+    "threat_level_id": 4,
+    "timestamp": 1715713517
+  },
+  "3ee8a985-f2da-4387-afa1-7b6de7d7bfcc": {
+    "Orgc": {
+      "name": "Infoblox",
+      "uuid": "D1C6A726-F132-4DDC-8180-CE3A5B778E65"
+    },
+    "Tag": [],
+    "info": "metacoin_cta_20221109_iocs",
+    "date": "2022-11-09",
+    "analysis": 2,
+    "threat_level_id": 4,
+    "timestamp": 1715713518
+  },
+  "23e3ae7f-a75c-4130-b050-9018c2445c55": {
+    "Orgc": {
+      "name": "Infoblox",
+      "uuid": "D1C6A726-F132-4DDC-8180-CE3A5B778E65"
+    },
+    "Tag": [],
+    "info": "omnatuor_cta_20220815_iocs",
+    "date": "2022-08-15",
+    "analysis": 2,
+    "threat_level_id": 4,
+    "timestamp": 1715713520
+  },
+  "794c3ffb-8262-46a5-9d28-d893a5babf98": {
+    "Orgc": {
+      "name": "Infoblox",
+      "uuid": "D1C6A726-F132-4DDC-8180-CE3A5B778E65"
+    },
+    "Tag": [],
+    "info": "usps_cta_20231219",
+    "date": "2023-12-19",
+    "analysis": 2,
+    "threat_level_id": 4,
+    "timestamp": 1715713522
+  },
+  "c2b2825c-cd95-41a0-a871-e0a523baa0cd": {
+    "Orgc": {
+      "name": "Infoblox",
+      "uuid": "D1C6A726-F132-4DDC-8180-CE3A5B778E65"
+    },
+    "Tag": [],
+    "info": "lookalikes_malicious_rmm_ccb_20230131_iocs",
+    "date": "2023-01-31",
+    "analysis": 2,
+    "threat_level_id": 4,
+    "timestamp": 1715713524
+  },
+  "96c2e17a-1047-46b0-8a7c-82805abf81c2": {
+    "Orgc": {
+      "name": "Infoblox",
+      "uuid": "D1C6A726-F132-4DDC-8180-CE3A5B778E65"
+    },
+    "Tag": [],
+    "info": "savvy_seahorse_20240228_iocs",
+    "date": "2024-02-28",
+    "analysis": 2,
+    "threat_level_id": 4,
+    "timestamp": 1715713525
+  },
+  "ab700741-bc69-402c-86ec-feb3fd2d56a2": {
+    "Orgc": {
+      "name": "Infoblox",
+      "uuid": "D1C6A726-F132-4DDC-8180-CE3A5B778E65"
+    },
+    "Tag": [],
+    "info": "turkiye_earthquake_malicious_suspicious_iocs",
+    "date": "2024-05-14",
+    "analysis": 2,
+    "threat_level_id": 4,
+    "timestamp": 1715713526
+  },
+  "a07edcdb-7ea2-491c-809f-14406defb2dd": {
+    "Orgc": {
+      "name": "Infoblox",
+      "uuid": "D1C6A726-F132-4DDC-8180-CE3A5B778E65"
+    },
+    "Tag": [],
+    "info": "decoy_dog_cta_20230714_iocs",
+    "date": "2023-07-14",
+    "analysis": 2,
+    "threat_level_id": 4,
+    "timestamp": 1715713527
+  },
+  "95211a76-2e1c-4f5e-ba8b-58b20d44991a": {
+    "Orgc": {
+      "name": "Infoblox",
+      "uuid": "D1C6A726-F132-4DDC-8180-CE3A5B778E65"
+    },
+    "Tag": [],
+    "info": "turkiye_earthquake_legitimate_iocs",
+    "date": "2024-05-14",
+    "analysis": 2,
+    "threat_level_id": 4,
+    "timestamp": 1715713528
+  }
+}
